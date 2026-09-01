@@ -28,10 +28,4 @@
 
 ## 🚀 Быстрый запуск (Loadstring / Bookmarklet)
 
-Благодаря интеграции с **jsDelivr CDN**, пользователям не нужно копировать весь код вручную — скрипт всегда подтягивает самую свежую версию из репозитория.
-
-### Способ 1: Через консоль F12
-
-#### Зеркало 1 (jsDelivr CDN — быстрое и надежное):
-```javascript
-(function(){var s=document.createElement('script');s.src='[https://cdn.jsdelivr.net/gh/PidrHackerOfficial/Vitya_Guardian@main/vitya-guardian.js';document.head.appendChild(s](https://cdn.jsdelivr.net/gh/PidrHackerOfficial/Vitya_Guardian@main/vitya-guardian.js';document.head.appendChild(s));})();
+пока не работает(, загрузите сурс в консоль браузера (🚨 сурс полностью открыт и там нету стиллеров и тому подобное чистый код)
